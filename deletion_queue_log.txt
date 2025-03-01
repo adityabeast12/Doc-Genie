@@ -1,5 +1,0 @@
-[2025-03-01 09:09:13] Queued 'SimpleCRM - SDLC BA Role & Responsibilities Collateral June 2023.pdf' for deletion
-[2025-03-01 09:09:14] Queued 'Aditya-Internship Spiral.pdf' for deletion
-[2025-03-01 09:49:11] Queued 'SimpleCRM - BPM Configuration Training Collateral May 2023.pdf' for deletion
-[2025-03-01 09:49:12] Queued 'SimpleCRM-Customer Support Portal User Guide.docx.pdf' for deletion
-[2025-03-01 09:49:12] Queued 'R-YaBot User Guide.docx.pdf' for deletion

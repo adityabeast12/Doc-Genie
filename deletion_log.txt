@@ -1,5 +1,0 @@
-Starting deletion process at 2025-03-01 08:55:08
-Files to process: SimpleCRM - STLC BA Role & Responsibilities Collateral June 2023.pdf
-
-Processing SimpleCRM - STLC BA Role & Responsibilities Collateral June 2023.pdf...
-Found 13 embeddings for SimpleCRM - STLC BA Role & Responsibilities Collateral June 2023.pdf
