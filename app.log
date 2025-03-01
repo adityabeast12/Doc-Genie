@@ -157,3 +157,10 @@
 2025-03-01 09:50:10,412 - __main__ - INFO - main - Loaded index from ChromaDB.
 2025-03-01 09:50:10,669 - __main__ - INFO - main - Loaded index from ChromaDB.
 2025-03-01 09:50:10,881 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 15:57:31,431 - chromadb.telemetry.product.posthog - INFO - __init__ - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-03-01 15:57:31,800 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 15:58:17,992 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 16:00:24,201 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 16:00:26,150 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 16:01:15,194 - __main__ - INFO - main - Loaded index from ChromaDB.
+2025-03-01 16:08:25,777 - __main__ - INFO - main - Loaded index from ChromaDB.

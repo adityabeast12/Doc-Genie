@@ -1,3 +1,39 @@
 .env
 *.log
 deletion_status.json
+delete_queue.txt
+delete_queue.txt.working
+deletion_queue_log.txt
+deletion_error_log.txt
+deletion_attempt.txt
+deletion_error.txt
+query_history.json
+
+# Chroma DB files
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
