@@ -12,6 +12,7 @@ query_history.json
 
 # Chroma DB files
 chroma_db/
+chroma_index/
 
 # Python cache files
 __pycache__/
