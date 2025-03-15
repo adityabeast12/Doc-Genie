@@ -7,6 +7,7 @@ deletion_queue_log.txt
 deletion_error_log.txt
 deletion_attempt.txt
 deletion_error.txt
+deletion_log.txt
 query_history.json
 
 # Chroma DB files
@@ -37,3 +38,5 @@ build/
 # OS specific files
 .DS_Store
 Thumbs.db
+
+env_variables.txt

@@ -296,9 +296,8 @@ class RAGChatbot:
 class DocumentManager:
     """Handles document loading and metadata retrieval from ChromaDB"""
     
-    def __init__(self, db_path="./chroma_db"):
-        self.chroma_client = chromadb.PersistentClient(path=db_path)
-        self.collection = self.chroma_client.get_or_create_collection("rag_vectors")
+    def __init__(self, collection):
+        self.collection = collection
     
     def load_documents(self):
         """Fetches stored document metadata from ChromaDB and removes duplicates"""
@@ -530,11 +529,9 @@ def main():
     # Initialize chatbot
     try:
         chatbot = RAGChatbot()
-        doc_manager = DocumentManager()
-
-        # Load index if exists
         chroma_client = chromadb.PersistentClient(path="./chroma_db")
         chroma_collection = chroma_client.get_or_create_collection("rag_vectors")
+        doc_manager = DocumentManager(chroma_collection)
         vector_store = ChromaVectorStore(chroma_collection)
         index = VectorStoreIndex.from_vector_store(vector_store)
 
